@@ -1,8 +1,8 @@
 # app
 
 A new Flutter project.
+flutter 电商app
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![image](screenshots/home.png)
+![image](screenshots/list.png)
